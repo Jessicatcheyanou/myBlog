@@ -2,7 +2,7 @@
 
 <div class="section-title">
   <h2>Contact</h2>
-  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+  <p>Any doubts,Questions?Feel free to Send me a message</p>
 </div>
 
 <div class="row" data-aos="fade-in">
@@ -27,7 +27,7 @@
         <p>+237 675779816</p>
       </div>
 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+      <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15923.61215386174!2d11.488245235869353!3d3.830976715218845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x108bcfded0c96449%3A0xff9dab93a2a1fb47!2zTmdvYSBFa8OpbMOpLCBZYW91bmTDqQ!5e0!3m2!1sfr!2scm!4v1598296647040!5m2!1sfr!2scm" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
     </div>
 
   </div>

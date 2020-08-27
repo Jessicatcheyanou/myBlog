@@ -2,7 +2,7 @@
 
 <div class="profile">
   <img src="assets/img/profile-img.jpeg" alt="" class="img-fluid rounded-circle">
-  <h1 class="text-light"><a href="index.html">Jessica Tcheyanou</a></h1>
+  <h1 class="text-light">Jessica Tcheyanou</h1>
   <div class="social-links mt-3 text-center">
     <a href="https://twitter.com/KanmegneJ" class="twitter"><i class="bx bxl-twitter"></i></a>
     <a href="https://web.facebook.com/pg/JTcheyanou" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -14,7 +14,7 @@
 
 <nav class="nav-menu">
   <ul>
-    <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+    <li class="active"><i class="bx bx-home"></i> <span>Home</span></li>
     <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
     <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
     <!-- <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li> -->
